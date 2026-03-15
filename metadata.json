@@ -1,0 +1,7 @@
+{
+  "name": "WellMind AI",
+  "description": "AI-powered mental wellness companion developed by Er. uttam kumar. Featuring emotional support chat, mood tracking, and guided wellness tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
